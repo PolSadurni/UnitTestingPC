@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCalculusPolCarlos", "MathCalculusPolCarlos\MathCalculusPolCarlos.csproj", "{5491B2F5-300C-478C-BC7E-EF5CF5F20661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculus.UnitTest", "Calculus.UnitTest\Calculus.UnitTest.csproj", "{ED21DB5B-9AB2-4B5A-B0AB-FD1A627B2518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5491B2F5-300C-478C-BC7E-EF5CF5F20661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5491B2F5-300C-478C-BC7E-EF5CF5F20661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5491B2F5-300C-478C-BC7E-EF5CF5F20661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5491B2F5-300C-478C-BC7E-EF5CF5F20661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED21DB5B-9AB2-4B5A-B0AB-FD1A627B2518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED21DB5B-9AB2-4B5A-B0AB-FD1A627B2518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED21DB5B-9AB2-4B5A-B0AB-FD1A627B2518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED21DB5B-9AB2-4B5A-B0AB-FD1A627B2518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA57FF6-E4C3-48C3-94D5-1A692C8E631D}
+	EndGlobalSection
+EndGlobal
